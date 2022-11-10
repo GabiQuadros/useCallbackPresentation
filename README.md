@@ -39,5 +39,6 @@ Ou seja, ao invés de rendereizar todas as funções, o usecallback pausa e rend
 
 #### Contribuições:
 
+- [Assis Júnior](https://github.com/AssFerj)
 - [Gabriel Camargo](https://github.com/GabrielCamargo92)
 - [Welerson Ferreira](https://github.com/welersonfrr/)
