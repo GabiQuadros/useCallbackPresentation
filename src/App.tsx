@@ -28,7 +28,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>UseCallbach</h1>
+      <h1>UseCallback</h1>
       <hr />
       <h1>
         {countOne} - {countTwo}

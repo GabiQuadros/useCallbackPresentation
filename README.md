@@ -4,7 +4,7 @@
 
 utilize
 `npm install`
-para instalar as dependencias do projeto para teste.
+para instalar as dependencias do projeto para teste e `npm run dev` para iniciar.
 
 ## O que é o useCallback?
 
