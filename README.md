@@ -33,3 +33,7 @@ Onde o callback somente será atualizado caso a dependencia passada como parâme
 - [React Official Docs](https://reactjs.org/docs/hooks-reference.html#usecallback)
 - [Blog Kinsta](https://kinsta.com/pt/blog/usecallback-react/)
 - [YouTube Kelvin Beltrão](https://youtu.be/c6QO8ePE_a8)
+
+#### Contribuições:
+
+- [Welerson Ferreira](https://github.com/welersonfrr/)
