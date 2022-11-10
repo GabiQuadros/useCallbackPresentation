@@ -28,6 +28,9 @@ const memoizedCallback = useCallback(() => {
 
 Onde o callback somente será atualizado caso a dependencia passada como parâmetro seja atualizada.
 
+O useCallback é um gancho que retornará uma versão memoizada da função de retorno de chamada que só muda se uma das dependências for alterada. A memoização é uma maneira de armazenar em cache um resultado para que ele não precise ser calculado novamente. Isso pode aumentar o desempenho.
+Ou seja, ao invés de rendereizar todas as funções, o usecallback pausa e renderiza somente a que está sendo executata.
+
 #### Leia mais em
 
 - [React Official Docs](https://reactjs.org/docs/hooks-reference.html#usecallback)
@@ -36,4 +39,5 @@ Onde o callback somente será atualizado caso a dependencia passada como parâme
 
 #### Contribuições:
 
+- [Gabriel Camargo](https://github.com/GabrielCamargo92)
 - [Welerson Ferreira](https://github.com/welersonfrr/)
